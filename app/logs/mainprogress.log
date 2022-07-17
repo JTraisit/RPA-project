@@ -1,0 +1,167 @@
+2022-07-12 11:42:16,233 - DEBUG - logs.logerror  - line call :61 - Start of main program
+2022-07-12 11:42:16,234 - ERROR - logs.logerror  - line call :36 - time data '20220201' does not match format '%Y-%m-%d'status:Fail
+2022-07-12 11:43:02,004 - DEBUG - logs.logerror  - line call :61 - Start of main program - main
+2022-07-12 11:43:02,006 - ERROR - logs.logerror  - line call :36 - time data '20220201' does not match format '%Y-%m-%d'status:Fail - main
+2022-07-12 11:43:19,650 - DEBUG - main  - line call :61 - Start of main program - 
+2022-07-12 11:43:19,652 - ERROR - main  - line call :36 - time data '20220201' does not match format '%Y-%m-%d'status:Fail - 
+2022-07-12 11:43:38,890 - DEBUG - main  - line call :61 - Start of main program
+2022-07-12 11:43:38,893 - ERROR - main  - line call :36 - time data '20220201' does not match format '%Y-%m-%d'status:Fail
+2022-07-12 11:46:28,048 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 11:46:28,050 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:46:28,050 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:46:39,781 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 11:46:39,783 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:46:39,783 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:47:40,067 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 11:47:40,069 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:47:40,069 - DEBUG - main - line call :39 - status: complete
+2022-07-12 11:47:40,072 - ERROR - getpath - line call :29 - [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\Internship\\Project python version\\app\\master\\Path2.xlsx'status:Fail
+2022-07-12 11:47:40,072 - ERROR - getpath - line call :29 - [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\Internship\\Project python version\\app\\master\\Path2.xlsx'status:Fail
+2022-07-12 13:06:28,975 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:06:28,977 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:07:17,292 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:07:17,293 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:07:17,294 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:07:17,294 - ERROR - getpath - line call :29 - [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\Internship\\Project python version\\app\\master\\Path3.xlsx'status:Fail
+2022-07-12 13:07:17,294 - ERROR - getpath - line call :29 - [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\Internship\\Project python version\\app\\master\\Path3.xlsx'status:Fail
+2022-07-12 13:08:26,349 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:08:26,351 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:08:26,351 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:08:26,360 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:08:26,360 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:09:34,105 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:09:34,107 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:09:34,107 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:09:34,113 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:09:34,113 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:10:44,132 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:10:44,134 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:10:44,134 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:10:44,140 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:10:44,140 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:00,504 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:11:00,505 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:00,505 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:00,511 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:00,511 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:19,267 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:11:19,268 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:19,268 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:19,274 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:19,274 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:25,177 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:11:25,179 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:25,179 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:11:25,185 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:11:25,185 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:12:37,507 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:12:37,508 - ERROR - main - line call :36 - unconverted data remains: \status:Fail
+2022-07-12 13:12:39,713 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:12:39,714 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:12:39,714 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:12:39,720 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:12:39,720 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:13:19,863 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:13:19,864 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:13:19,864 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:13:19,871 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:13:19,871 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:13:59,472 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:13:59,474 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:13:59,474 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:13:59,480 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:13:59,480 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:17:25,943 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:17:25,944 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:17:25,945 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:17:25,951 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:17:25,951 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:17:50,941 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:17:50,943 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:17:50,943 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:17:50,949 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:17:50,949 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:19:33,296 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:19:33,298 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:19:33,298 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:19:33,303 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:19:33,303 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:21:17,315 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:21:17,317 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:21:17,317 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:21:17,323 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:21:17,323 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:22:06,949 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:22:06,951 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:22:06,951 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:22:06,956 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:22:06,956 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:00,716 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:25:00,717 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:00,717 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:00,724 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:00,724 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:21,584 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:25:21,585 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:21,585 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:21,591 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:21,591 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:39,366 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:25:39,368 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:39,368 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:25:39,381 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:25:39,381 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:26:11,398 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:26:11,399 - ERROR - main - line call :36 - unconverted data remains: 5status:Fail
+2022-07-12 13:26:15,257 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:26:15,261 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:26:15,261 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:26:15,274 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:26:15,274 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:27:08,095 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:27:08,096 - ERROR - main - line call :36 - unconverted data remains: 5status:Fail
+--------------------------------------------
+2022-07-12 13:28:10,928 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:28:10,930 - ERROR - main - line call :36 - unconverted data remains: 5status:Fail
+2022-07-12 13:28:41,154 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:28:41,155 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:28:41,156 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:28:41,162 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:28:41,162 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:32:49,368 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:32:49,370 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:32:49,370 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:32:49,377 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:32:49,377 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:33:29,343 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:33:29,345 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:33:29,345 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:33:29,352 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:33:29,352 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:34:05,801 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:34:05,803 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:34:05,803 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:34:05,809 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:34:05,809 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:34:59,025 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:34:59,027 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:34:59,027 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:34:59,033 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:34:59,033 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:36:09,447 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:36:09,449 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:36:09,449 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:36:09,455 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:36:09,455 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:36:21,939 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:36:21,940 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:36:21,940 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:36:21,947 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:36:21,947 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:50:56,388 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:50:56,390 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:50:56,390 - DEBUG - main - line call :39 - status: complete
+2022-07-12 13:50:56,397 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:50:56,397 - DEBUG - getpath - line call :34 - status: complete
+2022-07-12 13:51:10,045 - DEBUG - main - line call :61 - Start of main program
+2022-07-12 13:51:10,047 - ERROR - main - line call :36 - time data '20222232' does not match format '%Y-%m-%d'status:Fail
